@@ -1,0 +1,10 @@
+2021-11-03 20:49:03,318 root WARNING: Failed login by demo1 
+2021-11-03 20:49:03,318 root Level 35: Can't login 
+2021-11-03 20:49:03,318 root ERROR: Poll question has no choices: 1
+2021-11-03 20:49:03,318 root CRITICAL: Connection to database failed
+2021-11-03 20:49:03,318 foo DEBUG: debug message
+2021-11-03 20:49:03,319 foo INFO: Successful loging by User demo1
+2021-11-03 20:49:03,319 foo WARNING: Failed login by demo1 
+2021-11-03 20:49:03,319 foo Level 35: Can't login 
+2021-11-03 20:49:03,319 foo ERROR: Poll question has no choices: 1
+2021-11-03 20:49:03,319 foo CRITICAL: Connection to database failed
